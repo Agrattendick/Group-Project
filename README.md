@@ -1,5 +1,12 @@
 Group Project
 
-Our group project is looking into soccer data for the local St. Louis FC. If we can't get access to that data we'll grab information from elsewhere. 
+Project Title:
+The Dirty Hippy Proposal for Clean Solar Power
 
-All of this is subject to change if the group doesn't like the idea. 
+Description:
+Looking at the viability of personal solar cells placed on the roofs of homes in various cities across the United States. 
+
+DataSet:
+
+3-5 Initial Research Questions:
+
