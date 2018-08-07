@@ -28,6 +28,7 @@ Personal Solar Panels would have no benefit for personal use.
 		* Account for average cloud cover from Open Weather Maps.
 	
 * Does living in high denisty or low density housing make a difference?
+	*Is there a correlation between number of solar panel instilation and median income?
 
 * How does a community benefit from personal solar panels for homeowners?
 	* How much carbon offset is provided by Solar Cells?
