@@ -34,4 +34,5 @@ Personal Solar Panels would have no benefit for personal use.
 	* How much power is currently providec by Fossil Fuels
 
 
-
+# GitHub Link
+[GitHub](https://github.com/Agrattendick/Group-Project)
