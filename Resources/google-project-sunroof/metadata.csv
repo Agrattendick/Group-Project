@@ -30,3 +30,5 @@ state_name,Name of the state containing that region
 kw_total,# of kW of solar potential for all roof types in that region (assuming 250 watts per panel)
 kw_median,kW of solar potential for the median building in that region (assuming 250 watts per panel)
 existing_installs_count,"# of buildings estimated to have a solar installation, at time of data collection"
+,
+Edited,
